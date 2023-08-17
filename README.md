@@ -13,7 +13,7 @@
 
 ### Conecte-se comigo! 
 [![Perfil DIO](https://img.shields.io/badge/DIO-blue)](https://web.dio.me/users/anajrsilva?tab=skills)
-[![LINKDIN](https://img.shields.io/badge/Linkdin-darkblue)](https://www.linkedin.com/in/anajrsilva-73937219a/)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-darkblue)](https://www.linkedin.com/in/anajrsilva-73937219a/)
 [![GitHub](https://img.shields.io/badge/GitHub-purple)](https://github.com/AnaJRSilva)
 
 ### Estudante autônoma de Data Science... Em processo...
