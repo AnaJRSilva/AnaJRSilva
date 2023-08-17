@@ -12,9 +12,9 @@
 ![Empathetic](https://img.shields.io/badge/Proatividade-yellow)
 
 ### Conecte-se comigo! 
-[![Perfil DIO](https://img.shields.io/badge/DIO-blue)](https://web.dio.me/users/biassistencia)
-[![LINKDIN](https://img.shields.io/badge/Linkdin-darkblue)](https://www.linkedin.com/in/ademilson-simiao-950656171/)
-[![GitHub](https://img.shields.io/badge/GitHub-purple)](https://github.com/AdemilsonSimiao)
+[![Perfil DIO](https://img.shields.io/badge/DIO-blue)](https://web.dio.me/users/anajrsilva?tab=skills)
+[![LINKDIN](https://img.shields.io/badge/Linkdin-darkblue)](https://www.linkedin.com/in/anajrsilva-73937219a/)
+[![GitHub](https://img.shields.io/badge/GitHub-purple)](https://github.com/AnaJRSilva)
 
 ### Estudante autônoma de Data Science... Em processo...
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnaJRSilva&layout=compact&bg_color=1000&border_color=FFF&title_color=E59D&text_color=FFF)
