@@ -1,0 +1,23 @@
+# Oi, prazer, sou a Ana!
+
+###  Graduação
+![Graduação](https://img.shields.io/badge/Ciência_e_Tecnologia-greeen)
+
+### Profissão
+![Profissão](https://img.shields.io/badge/Assistente_de_SEO-red) 
+### Soft Skills
+![Comprometimento](https://img.shields.io/badge/Comprometimento-pink)
+![Empatia](https://img.shields.io/badge/Empatia-blue)
+![Organized](https://img.shields.io/badge/Organização-orange)
+![Empathetic](https://img.shields.io/badge/Proatividade-yellow)
+
+### Conecte-se comigo! 
+[![Perfil DIO](https://img.shields.io/badge/DIO-blue)](https://web.dio.me/users/biassistencia)
+[![LINKDIN](https://img.shields.io/badge/Linkdin-darkblue)](https://www.linkedin.com/in/ademilson-simiao-950656171/)
+[![GitHub](https://img.shields.io/badge/GitHub-purple)](https://github.com/AdemilsonSimiao)
+
+### Estudante autônoma de Data Science... Em processo...
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnaJRSilva&layout=compact&bg_color=1000&border_color=FFF&title_color=E59D&text_color=FFF)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AnaJRSilva&repo=Potencia_Tech_powered_by_iFood-Ciencia_de_Dados&bg_color=1000&border_color=FFF&show_icons=true&icon_color=000&title_color=E59D&text_color=FFF)](https://github.com/AnaJRSilva/Potencia_Tech_powered_by_iFood-Ciencia_de_Dados)
+
