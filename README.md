@@ -12,7 +12,7 @@
 ![Empathetic](https://img.shields.io/badge/Proatividade-yellow)
 
 ### Conecte-se comigo! 
-[![Perfil DIO](https://img.shields.io/badge/DIO-blue)](https://web.dio.me/users/anajrsilva?tab=skills)
+[![Perfil DIO](https://img.shields.io/badge/DIO-blue)](https://www.dio.me/users/anajrsilva)
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-darkblue)](https://www.linkedin.com/in/anajrsilva-73937219a/)
 [![GitHub](https://img.shields.io/badge/GitHub-purple)](https://github.com/AnaJRSilva)
 
