@@ -17,7 +17,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-purple)](https://github.com/AnaJRSilva)
 
 ### Estudante autônoma de Data Science... Em processo...
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnaJRSilva&layout=compact&bg_color=1000&border_color=FFF&title_color=E59D&text_color=FFF)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AnaJRSilva&repo=Potencia_Tech_powered_by_iFood-Ciencia_de_Dados&bg_color=1000&border_color=FFF&show_icons=true&icon_color=000&title_color=E59D&text_color=FFF)](https://github.com/AnaJRSilva/Potencia_Tech_powered_by_iFood-Ciencia_de_Dados)
 
