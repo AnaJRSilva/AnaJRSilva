@@ -1,10 +1,11 @@
 # Oi, prazer, sou a Ana!
 
 ###  Graduação
-![Graduação](https://img.shields.io/badge/Ciência_e_Tecnologia-greeen)
+![Graduação](https://img.shields.io/badge/Ciência_e_Tecnologia-greeen) ![obs](https://img.shields.io/badge/Confira_meus_repositórios,_encontrará_alguns_projetos_e_exercícios-black)
 
 ### Profissão
 ![Profissão](https://img.shields.io/badge/Assistente_de_SEO-red) 
+
 ### Soft Skills
 ![Comprometimento](https://img.shields.io/badge/Comprometimento-pink)
 ![Empatia](https://img.shields.io/badge/Empatia-blue)
